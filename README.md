@@ -10,5 +10,10 @@
 I have a degree in Computer Science. I am now working as a Data Scientist in IT Accountant Ltd company.
 
 ## Some of my Favourite Projects:
+
+
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saba-Rostami&show_icons=true&theme=jolly)](https://github.com/Saba-Rostami/github-readme-stats)
 
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
