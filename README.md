@@ -1,17 +1,12 @@
-### Hi I'm Saba 👋
+# Hi I'm Saba 👋
 
-## About me
-<!--
-**Saba-Rostami/Saba-Rostami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Name: Saba Rostami
+- Location: London, UK
+- Computer Languages: Python , SQL
+- Human Languages: English, Persian
+- Interests: Data Science, Machine Learning, Arts, Playing instruments, Swiming
 
-Here are some ideas to get you started:
+I have a degree in Computer Science. I am now working as a Data Scientist in IT Accountant Ltd company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my Favourite Projects:
