@@ -11,8 +11,4 @@ I have a degree in Computer Science. I am now working as a Data Scientist in IT 
 
 ## Some of my Favourite Projects:
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]/[DARK_MODE_COLOR]" />
 
