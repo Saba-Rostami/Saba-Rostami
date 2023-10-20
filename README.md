@@ -10,5 +10,5 @@
 I have a degree in Computer Science. I am now working as a Data Scientist in IT Accountant Ltd company.
 
 ## Some of my Favourite Projects:
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
