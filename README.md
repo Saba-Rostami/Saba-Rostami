@@ -10,3 +10,5 @@
 I have a degree in Computer Science. I am now working as a Data Scientist in IT Accountant Ltd company.
 
 ## Some of my Favourite Projects:
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />
