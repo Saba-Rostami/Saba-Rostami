@@ -1,15 +1,25 @@
-# Hi I'm Saba 👋
+# Hi, I'm Saba! 👋🌟
 
 ## About Me
-- Name: Saba Rostami
-- Location: London, UK
-- Computer Languages: Python , SQL
-- Human Languages: English, Persian
-- Interests: Data Science, Machine Learning, Arts, Playing instruments, Swiming
+- 💼 **Current Role:** Data Scientist at IT Accountant Ltd, London, UK
+- 🎓 **Education:** Degree in Computer Science
+- 🌍 **Languages:** English, Persian
+- 💻 **Computer Languages:** Python, SQL 
+- 🎨 **Interests:** Data Science, Machine Learning, Arts, Playing Instruments, Swimming 🏊‍♀️
 
-I have a degree in Computer Science. I am now working as a Data Scientist in IT Accountant Ltd company.
+## Passion for Data 💡
 
-## Some of my Favourite Projects:
+Welcome to my digital space! I'm Saba Rostami, a passionate Data Scientist based in London. Here are a few exciting things about me:
+
+- 🚀 **Excitement:** I am thrilled to be at the intersection of technology and data, unraveling insights and creating impactful solutions.
+
+- 🌈 **Diverse Interests:** Beyond data, I love exploring the world of arts, playing musical instruments, and the refreshing feel of swimming.
+
+- 🌐 **Global Perspective:** Fluent in both English and Persian, I bring a global perspective to my work and collaborations.
+
+## Let's Connect! 🌐
+
+I'm always eager to connect with fellow data enthusiasts, tech enthusiasts, or anyone with a zest for life. Feel free to reach out, and let's embark on exciting data-driven journeys together! 🚀
 
 
 
